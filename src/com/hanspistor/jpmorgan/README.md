@@ -33,3 +33,7 @@ Also I felt a little constrained by the HireVue editor. I'm used to seperating
 classes out into seperate files where each class has a specific function
 but everything felt extremely clunky as one big MonoClass with static classes
 inside.
+
+Also, I was a little short sighted with my BFS implementation. I latched onto the
+distance from S for each node, but BFS guarantees the first path found is the shortest
+so it was a little irrelevant.

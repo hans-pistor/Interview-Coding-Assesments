@@ -1,4 +1,4 @@
-package com.hanspistor.jpmorgan;
+package com.hanspistor.jpmorgan.assessment;
 
 import java.io.BufferedReader;
 import java.io.File;
